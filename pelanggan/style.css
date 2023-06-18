@@ -19,6 +19,7 @@
     color: #000000;
 }
 
+
 #home p {
     font-family: 'Kite One';
     font-style: normal;
@@ -145,4 +146,33 @@ box-shadow: 10px 10px 18px 0px rgba(112,112,112,0.75);
 .daftar_harga, .daftar_harga td{
     text-align: justify;
     color: #8f8f8f;
+}
+
+.title h1 {
+    font-family: 'K2D';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 104px;
+    /* identical to box height */
+
+    text-align: center;
+}
+.title h3{
+    font-family: 'Catamaran';
+font-style: normal;
+font-weight: 300;
+font-size: 30px;
+text-align: center;
+
+color: #000000;
+}
+.video{
+  
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; /* Menyesuaikan tinggi sesuai kebutuhan */
+  
+    
 }
